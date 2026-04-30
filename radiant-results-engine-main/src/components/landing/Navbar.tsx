@@ -24,7 +24,7 @@ const Navbar = () => {
           
           <a href="#about" className="hover:text-primary transition-colors duration-300">About</a>
         </div>
-        <a href="https://koalendar.com/e/video-marketing-growth-call" target="_blank" rel="noopener noreferrer" className="hidden md:block btn-raw py-2.5 px-6 text-xs">
+        <a href="https://calendly.com/sajedbarouni/strategy-call" target="_blank" rel="noopener noreferrer" className="hidden md:block btn-raw py-2.5 px-6 text-xs">
           Book a Call
         </a>
         <button onClick={() => setMobileOpen(!mobileOpen)} className="md:hidden text-foreground">
@@ -39,7 +39,7 @@ const Navbar = () => {
               {item}
             </a>
           ))}
-          <a href="https://koalendar.com/e/video-marketing-growth-call" target="_blank" rel="noopener noreferrer" className="block btn-filled text-center text-xs mt-4">Book a Call</a>
+          <a href="https://calendly.com/sajedbarouni/strategy-call" target="_blank" rel="noopener noreferrer" className="block btn-filled text-center text-xs mt-4">Book a Call</a>
         </div>
       )}
     </nav>

@@ -32,7 +32,7 @@ const Hero = () => {
             </span>
           </p>
           <div className="section-fade delay-400 flex flex-col sm:flex-row gap-4">
-            <a href="https://koalendar.com/e/video-marketing-growth-call" target="_blank" rel="noopener noreferrer" className="btn-filled">
+            <a href="https://calendly.com/sajedbarouni/strategy-call" target="_blank" rel="noopener noreferrer" className="btn-filled">
               Book a Call
             </a>
             <a href="#process" className="btn-raw">

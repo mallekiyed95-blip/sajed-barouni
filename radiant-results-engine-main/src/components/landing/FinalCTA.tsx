@@ -13,7 +13,7 @@ const FinalCTA = () => {
             Book your strategy call and let's build a video system that brings you cash.
           </p>
           <div className="section-fade delay-300 flex flex-col sm:flex-row gap-4 justify-center">
-            <a href="https://koalendar.com/e/video-marketing-growth-call" target="_blank" rel="noopener noreferrer" className="btn-filled">
+            <a href="https://calendly.com/sajedbarouni/strategy-call" target="_blank" rel="noopener noreferrer" className="btn-filled">
               Book a Call
             </a>
             <a href="#process" className="btn-raw">
